@@ -1,6 +1,7 @@
 section {
 	max-width: 800px;
 	height: 500px;
+	padding-top: 30px;
 	margin-left: auto;
 	margin-right: auto;
 	font-size: 0;
@@ -19,4 +20,24 @@ div {
 .thirty {
 	height: 300px;
 	width: 33.3%;
+}
+
+.green {
+	background-color: green;
+}
+
+.blue {
+	background-color: blue;
+}
+
+.gray {
+	background-color: gray;
+}
+
+.black {
+	background-color: black;
+}
+
+.orange {
+	background-color: orange;
 }
